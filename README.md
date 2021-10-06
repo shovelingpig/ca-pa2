@@ -1,6 +1,6 @@
 # 4190.308 Computer Architecture (Fall 2021)
 
-# Project #2: FP10 (10-bit floating Point) Representation
+# Project #2: FP10 (10-bit Floating Point) Representation
 
 ### Due: 11:59PM, October 17 (Sunday)
 
